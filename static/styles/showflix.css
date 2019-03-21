@@ -1,0 +1,33 @@
+body {
+    background-image: url('https://getreelcinemas.com//wp-content/uploads/2015/02/Background-Narrow.jpg');
+    background-size: cover;
+}
+
+h3 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+.sons, .dexter {
+    position: relative;
+    top: 350;
+    left: 300;
+}
+
+.dexter {
+    position: relative;
+    top: 350;
+}
+
+.list {
+    color: white;
+    padding: 30px 80px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    
+}
+    

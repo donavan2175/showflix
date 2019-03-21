@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-image: url("https://www.motionbackgroundsforfree.com/wp-content/uploads/2012/04/Screen-shot-2012-04-23-at-3.31.26-PM.png");
+    background-size: cover;
+}
+
+.para1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+
+}
+
+.para2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+}
+
+.enter, .enter1 {
+    color: rgb(121, 3, 3);
+}
+
+.click {
+    position: relative;
+    bottom: -250;
+}
+
+@media (min-width: 1024px) {
+    .para2 {
+        margin-right: 500px;
+        position: relative;
+        top: 100px;
+        
+    }
+    
+    .img { 
+        float: right;
+        margin-right: 15px;
+    }
+    
+} 
